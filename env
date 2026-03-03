@@ -1,0 +1,11 @@
+# Configuration Backend MADA POS
+PORT=5000
+
+# Sécurité (NE JAMAIS PARTAGER CE FICHIER)
+# En production, cette clé devra être une chaîne longue et complexe
+JWT_SECRET=mada_pos_local_secret_key_v2_2024
+
+RSA_PUBLIC_KEY="-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1oqFY84+35GyhbSrYGGh\ntJxmcDm1raSuwV89CA/xXehN4dIGRr07CEzo2JPWjjzjywkdjocAmZrbp0SBEO3s\nn/kNW+2cii2cvRNF5VIz7z2onTDuDl1BtBOldX+AZVQlQwBVweqX6GapsRiyAh5D\nr0/e4bZxLlX5OX/TpW482/a/W4glnX/ChcaCtfvEXnJvB9Ufx2W5+nmccbvTMOxC\nu4PAS+H0kE77kF9v06xfazUJ85PyKID3hBGUmzhlqry5Z87cwL3dgwR8KYoIgCKB\ncwdwJZtZsKvwQrWGrmwYQjUqhOtsUpBzZip4u3NRCJZfE/q11WXHKIVEDvYojO5X\nNQIDAQAB\n-----END PUBLIC KEY-----"
+
+
+
