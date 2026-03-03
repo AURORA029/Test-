@@ -1,0 +1,14 @@
+{
+  "payload": {
+    "clientName": "Restaurant Le Mada",
+    "hardwareId": "ANY",
+    "issuedAt": "2026-03-02T18:06:53.410Z",
+    "expiresAt": "2027-03-02T18:06:53.410Z",
+    "features": [
+      "core",
+      "export",
+      "kds"
+    ]
+  },
+  "signature": "TeRLJ4pd00ZFG0ff/faiGGakuemanaLfDV8tmL57aAudMmIcA67ARuYOtaT5f1RAhzx40QHJXS0q3x3VgOplUzXpC/XFWH6qQu6nraTdLyl+cNv/IO42HvXS7FbnvPDJLu/v6aKpteoNlRMI4BYShT9EdX7QdlHXbC4w7P0HoHK1dyBugK19M9Gy6rY60ltW4wMykHn4tJ1Uy4CoN+Ssr2dKaW5wEoGmpFDzF4tWwZpOay5gtfmzKD2/geco2aKv1hODhjyjCPCrCWHqeI3NtTwdQh+40ZNRTKaKiENl/u9FolSezlBleVJT1X/DNbK2/NhPOCRnSCEqNiwbH8aX7Q=="
+}
